@@ -16,8 +16,6 @@ A curated list of onchain applications built using Bitquery's blockchain data AP
 
 ## Trading & DeFi
 
-
-
 ### Polymarket Trade Tracker
 CLI tooling for inspecting `OrderFilled` events on the Polymarket CTF Exchange using Bitquery’s GraphQL stream; track trader activity, assets, and price history.
 
@@ -73,7 +71,6 @@ An automated trading bot that monitors Ethereum volume surges and executes trade
 Calculator for OHLC (Open, High, Low, Close) data on Solana blockchain.
 
 - **GitHub**: [https://github.com/Akshat-cs/OHLC-Calculator-Solana](https://github.com/Akshat-cs/OHLC-Calculator-Solana)
-
 
 
 ### Streaming Moonshot Prices
@@ -139,10 +136,7 @@ A Solana wash trading detection system that fetches on-chain DEX trades, labels 
 - **Features**: ML-based wash trade detection, real-time visualization, risk metrics calculation
 - **GitHub**: [https://github.com/Kshitij0O7/wash-trading-detector](https://github.com/Kshitij0O7/wash-trading-detector)
 
-### Token Holder Heatmap
-
-Visualization application for displaying token holder distribution and activity.
-
+  
 ### Top 10 Ethereum Tokens
 
 Application for tracking and displaying the top 10 Ethereum tokens by various metrics.
@@ -166,6 +160,8 @@ A comprehensive DEX analytics platform for Solana with multiple components:
   - Trader insights
   - PumpFun integration
   - Bids tracking
+ 
+- **URL**: [https://dexrabbit.com/](https://dexrabbit.com/)
 
 ## Bots & Automation
 
