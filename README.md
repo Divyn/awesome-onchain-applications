@@ -287,6 +287,7 @@ A tax calculator application for crypto rewards and staking income.
 Token discovery and analysis tool for PumpFun platform.
 
 - **URL**: https://docs.bitquery.io/pumpfun-token-sniffer
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 
 ---
