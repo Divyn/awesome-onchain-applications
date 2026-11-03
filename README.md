@@ -73,12 +73,6 @@ Calculator for OHLC (Open, High, Low, Close) data on Solana blockchain.
 - **GitHub**: [https://github.com/Akshat-cs/OHLC-Calculator-Solana](https://github.com/Akshat-cs/OHLC-Calculator-Solana)
 
 
-### Streaming Moonshot Prices
-
-Real-time price streaming application for Moonshot tokens.
-
-- **GitHub**: [https://github.com/Divyn/streaming-moonshot-prices](https://github.com/Divyn/streaming-moonshot-prices)
-
 ### Profit & Loss Calculator
 
 A JavaScript-based profit and loss calculator using Bitquery's DEXTrades API to calculate realized PnL for crypto trading.
